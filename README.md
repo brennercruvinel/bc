@@ -17,14 +17,14 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 
 ## Research Interests
 
-* `Large Language Models (LLMs)` Architecture optimization and efficiency
-* Neural Architecture `Search & Model Surgery`
-* `Parameter-Efficient` Fine-Tuning (PEFT), `LoRA`, QLoRA, `Adapter fusion`
-* Speech Technologies - Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
-* `Natural Language Interfaces` Intent recognition, `semantic parsing`
-* Retrieval-Augmented Generation `(RAG), Dense retrieval, reranking strategies`
-* `Model Quantization & Compression`, 4-bit/8-bit inference optimization
-* Neurosemantic Computing `Brain-inspired language processing architectures`
+* **Large Language Models (LLMs)** - Architecture optimization and efficiency
+* **Neural Architecture Search** - Model surgery and structural optimization
+* **Parameter-Efficient Fine-Tuning** - LoRA, QLoRA, adapter fusion techniques
+* **Speech Technologies** - Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
+* **Natural Language Interfaces** - Intent recognition, semantic parsing
+* **Retrieval-Augmented Generation (RAG)** - Dense retrieval, reranking strategies
+* **Model Quantization & Compression** - 4-bit/8-bit inference optimization
+* **Neurosemantic Computing** - Brain-inspired language processing architectures
 
 ## Skills
 
