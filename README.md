@@ -8,7 +8,7 @@
 
 ## Hi, I'm Brenner
 
-# I transform `complex problems` into `elegant solutions` that people actually love to use.
+# I transform `complex problems` into `elegant prodcuts` that people actually love to use.
 
 ## What I'm About
 
