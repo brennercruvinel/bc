@@ -22,7 +22,7 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 * **Natural language interfaces** - Intent recognition, semantic parsing
 * **Retrieval-qugmented generation (RAG)** - Dense retrieval, reranking strategies
 * **Model quantization & compression** - 4-bit/8-bit inference optimization
-* **Neurosemantic Computing** - Brain-inspired language processing architectures
+* **Neurosemantic computing** - Brain-inspired language processing architectures
 
 ## Skills
 
