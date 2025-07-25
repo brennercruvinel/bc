@@ -7,9 +7,9 @@
 
 **`Currently`** Building something new in stealth mode (AI + Mental Health)
 
-**`Previously`** Led product design at Brazil's largest digital health platforms (Zenklub/Conexa)
+**`Previously`** Led product design at Brazil's largest digital health tech platforms [(Zenklub/Conexa)](https://zenklub.com.br/busca/)
 
-**`Mission`** Making technology disappear so humanity can shine
+**`Mission`** Technology should be a silent partner in human greatness
 
 **`Philosophy`** The best interface is no interface
 # Make it simple, but `significant`
