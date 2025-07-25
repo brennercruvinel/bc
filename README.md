@@ -61,7 +61,7 @@ const stack = {
 
 ## Fun Facts
 
-- Created the["world's longest email"](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) 15 years ago- Beach Park Insano Guinness Record holder
+- Created the["world's longest email"](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) 15 years ago - Beach Park Insano Guinness Record holder
 - Can enter a coding flow state that makes 10 hours feel like 10 minutes
 - Once built a viral app that got 2M downloads by accident
 - Fueled by Brazilian coffee and impossible deadlines
