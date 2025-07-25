@@ -12,6 +12,13 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 **Previously:** Led product design at Brazil's largest digital health platforms (Zenklub/Conexa)  
 **Mission:** Making technology disappear so humanity can shine  
 **Philosophy:** The best interface is no interface  
+  
+## Current Hyperfocus
+
+- **Experimenting:** `Svelte` + `Tauri` for blazing fast desktop apps `(React is dead to me)`
+- **Reading:** Papers on `mixture of experts (MoE)` architectures
+- **Building:** Local-first AI tools that `respect privacy`
+- **Learning:** `Advanced CUDA`, FlashAttention v2, `speculative decoding`, continuous batching, `neural semantic parsing`, Svelte + Tauri ecosystem
 
 ## Research interests
 
@@ -24,7 +31,7 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 * **Retrieval-augmented generation (RAG)** - Dense retrieval, reranking strategies
 * **Model quantization & compression** - 4-bit/8-bit inference optimization
 * **Neurosemantic computing** - Brain-inspired language processing architectures
-
+  
 ## Skills
 
 **Product Design**  
@@ -32,6 +39,7 @@ Enteraction design, visual design, motion design, design systems, Information ar
 
 **AI & Machine Learning Student**  
 LLM deployment, fine-tuning, embeddings, vector databases, semantic search, prompt engineering, multimodal AI, voice interfaces, model optimization, production ML systems
+
 
 ## Tech Stack
 
@@ -47,14 +55,6 @@ LLM deployment, fine-tuning, embeddings, vector databases, semantic search, prom
 };
 ```
 
-
-## Current Obsessions
-
-- **Experimenting:** `Svelte` + `Tauri` for blazing fast desktop apps `(React is dead to me)`
-- **Reading:** Papers on `mixture of experts (MoE)` architectures
-- **Building:** Local-first AI tools that `respect privacy`
-- **Learning:** `Advanced CUDA`, FlashAttention v2, `speculative decoding`, continuous batching, `neural semantic parsing`, Svelte + Tauri ecosystem
-
 ## Fun Facts
 
 - Created the ["world's longest email"](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) 15 years ago - Beach Park Insano `Guinness Record holder`
@@ -62,8 +62,6 @@ LLM deployment, fine-tuning, embeddings, vector databases, semantic search, prom
 - Once built a ["viral webapp"](https://www.awwwards.com/sites/facemother) that got `+1M users from a dumb experiment`
 - Fueled by `Brazilian coffee` and impossible deadlines
 - Believes the best `debugging happens at 2 AM`
-
----
 
 <p align="center">
   <a href="https://linkedin.com/in/brennercruvinel">
