@@ -22,11 +22,9 @@ Research Interests
 
 > `Speech Technologies` Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
 
-> `Retrieval-Augmented Generation (RAG)` Dense retrieval, reranking strategies
+> `RAG` Dense retrieval, reranking strategies
 
->  `Fractal & Recursive Architectures` Self-similar neural structures, cascade models
-
-> `Model Quantization & Compression` 4-bit/8-bit inference optimization
+> `Fractal & Recursive Architectures` Self-similar neural structures, cascade models
 
 > `Neurosemantic Computing` Brain-inspired language processing architectures & semantic parsing
 
