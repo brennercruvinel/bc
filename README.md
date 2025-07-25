@@ -20,26 +20,28 @@
 
 **`Philosophy`** The best interface is no interface
 
-# Research Interests
 ```
-**`Large Language Models (LLMs)`** Architecture optimization and efficiency
-
-**`Neural Architecture Search Model surgery`** and structural optimization
-
-**`Fractal & Recursive Architectures`** Self-similar neural structures, cascade models
-
-**`Parameter-Efficient Fine-Tuning`** LoRA, QLoRA, adapter fusion techniques
-
-**`Speech Technologies`** Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
-
-**`Natural Language Interfaces`** Intent recognition, semantic parsing
-
-**`Retrieval-Augmented Generation`** (RAG) Dense retrieval, reranking strategies
-
-**`Model Quantization & Compression`** 4-bit/8-bit inference optimization
-
-**`Neurosemantic Computing**` Brain-inspired language processing architectures
+Research Interests
 ```
+
+> `Large Language Models (LLMs)` Architecture optimization and efficiency
+
+> `Neural Architecture Search` Model surgery and structural optimization
+
+> `Fractal & Recursive Architectures` Self-similar neural structures, cascade models
+
+> `Parameter-Efficient Fine-Tuning` LoRA, QLoRA, adapter fusion techniques
+
+> `Speech Technologies` Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
+
+> `Natural Language Interfaces` Intent recognition, semantic parsing
+
+> `Retrieval-Augmented Generation (RAG)` Dense retrieval, reranking strategies
+
+> `Model Quantization & Compression` 4-bit/8-bit inference optimization
+
+> `Neurosemantic Computing` Brain-inspired language processing architectures
+
 # Current Hyperfocus
 
 **Experimenting:** **`Svelte`** + **`Tauri`** for blazing fast desktop apps **`(React is dead to me)`**
@@ -80,15 +82,15 @@ const stack = {
 
 # FUN Facts
 
-*Created the [world's longest email](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real)* 1*5 years ago - Beach Park Insano* `Guinness Record holder`
+Created the [world's longest email](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) 1*5 years ago - Beach Park Insano `Guinness Record holder`
 
-*Can hyperfocus so intensely that* `10 hours feel like 10 minutes`
+Can hyperfocus so intensely that `10 hours feel like 10 minutes`
 
-*Once built a [viral webapp](https://www.awwwards.com/sites/facemother) that got* `+1M users from a dumb experiment`
+Once built a [viral webapp](https://www.awwwards.com/sites/facemother) that got `+1M users from a dumb experiment`
 
-*Fueled by* `Brazilian coffee` *and impossible deadlines*
+Fueled by `Brazilian coffee` and impossible deadlines
 
-*Believes the best* `debugging happens at 2 AM`
+Believes the best `debugging happens at 2 AM`
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg)
 
