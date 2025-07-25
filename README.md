@@ -59,7 +59,7 @@ Product Design
 
 Enteraction design, visual design, motion design, design systems, Information architecture, accessibility standards, user research, prototyping, design strategy, team leadership
 ```
-AI & Machine Learning Student
+AI & Machine Learning (hobby)
 ```
 
 LLM deployment, fine-tuning, embeddings, vector databases, semantic search, prompt engineering, multimodal AI, voice interfaces, model optimization, production ML systems
