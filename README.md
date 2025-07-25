@@ -68,9 +68,9 @@ const stack = {
 };
 ```
 
-# FUN Facts
+# Fun Facts
 
-Created the [world's longest email](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) 1*5 years ago - Beach Park Insano `Guinness Record holder`
+Created the [world's longest email](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) 15 years ago - Beach Park Insano `Guinness Record holder`
 
 Can hyperfocus so intensely that `10 hours feel like 10 minutes`
 
