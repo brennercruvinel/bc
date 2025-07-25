@@ -17,6 +17,7 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 
 * **Large language models (LLMs)** - Architecture optimization and efficiency
 * **Neural architecture search** - Model surgery and structural optimization
+* **Fractal & recursive architectures** - Self-similar neural structures, cascade models
 * **Parameter-Efficient fine-Tuning** - LoRA, QLoRA, adapter fusion techniques
 * **Speech technologies** - Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
 * **Natural language interfaces** - Intent recognition, semantic parsing
