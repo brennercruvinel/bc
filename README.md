@@ -16,7 +16,7 @@
 
 Research Interests
 
-> `Neural Architecture Search` Model surgery and structural optimization
+> `NAS` Model surgery and structural optimization
 
 > `Parameter-Efficient Fine-Tuning` LoRA, QLoRA, adapter fusion techniques
 
