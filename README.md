@@ -13,15 +13,15 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 **Mission:** Making technology disappear so humanity can shine  
 **Philosophy:** The best interface is no interface  
 
-## Research Interests
+## Research interests
 
-* **Large Language Models (LLMs)** - Architecture optimization and efficiency
-* **Neural Architecture Search** - Model surgery and structural optimization
-* **Parameter-Efficient Fine-Tuning** - LoRA, QLoRA, adapter fusion techniques
-* **Speech Technologies** - Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
-* **Natural Language Interfaces** - Intent recognition, semantic parsing
-* **Retrieval-Augmented Generation (RAG)** - Dense retrieval, reranking strategies
-* **Model Quantization & Compression** - 4-bit/8-bit inference optimization
+* **Large language models (LLMs)** - Architecture optimization and efficiency
+* **Neural architecture search** - Model surgery and structural optimization
+* **Parameter-Efficient fine-Tuning** - LoRA, QLoRA, adapter fusion techniques
+* **Speech technologies** - Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
+* **Natural language interfaces** - Intent recognition, semantic parsing
+* **Retrieval-qugmented generation (RAG)** - Dense retrieval, reranking strategies
+* **Model quantization & compression** - 4-bit/8-bit inference optimization
 * **Neurosemantic Computing** - Brain-inspired language processing architectures
 
 ## Skills
@@ -29,10 +29,10 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 **Product Design**  
 Enteraction design, visual design, motion design, design systems, Information architecture, accessibility standards, user research, prototyping, design strategy, team leadership
 
-**AI & Machine Learning**  
+**AI & Machine Learning Student**  
 LLM deployment, fine-tuning, embeddings, vector databases, semantic search, prompt engineering, multimodal AI, voice interfaces, model optimization, production ML systems
 
-## Tech Stack & Skills
+## Tech Stack
 
 ```typescript
  ai: ['Autotrain', 'Ollama', 'LlamaIndex', 'HuggingFace ecosystem', 'LangChain', 'PyTorch','Claude CLI','LM Studio, 'Deepseek/QWEN and a bunch of open source models'],
