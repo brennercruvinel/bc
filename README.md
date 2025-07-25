@@ -1,16 +1,9 @@
-# Make it `Simple`, but `Significant`
-
+# Hi, I'm Brenner
 ![Product Leader](https://img.shields.io/badge/%F0%9F%9A%80-Product%20Leader%20%7C%2022%2B%20years-grey.svg)
-
 ![AI Researcher](https://img.shields.io/badge/%F0%9F%A7%A0-AI%20Researcher%20%7C%20Neurosemantic-grey.svg)
-
 ![Location](https://img.shields.io/badge/%F0%9F%93%8D-S%C3%A3o%20Paulo%2C%20Brazil-grey.svg)
 
-## Hi, I'm Brenner
-
-# I transform `complex problems` into `elegant prodcuts` that people actually love to use.
-
-## What I'm About
+# I transform `complex problems` into `elegant products` that people actually love to use.
 
 **`Currently`** Building something new in stealth mode (AI + Mental Health)
 
@@ -19,28 +12,24 @@
 **`Mission`** Making technology disappear so humanity can shine
 
 **`Philosophy`** The best interface is no interface
+# Make it Simple, but `Significant`
 
-```
 Research Interests
-```
-
-> `Large Language Models (LLMs)` Architecture optimization and efficiency
 
 > `Neural Architecture Search` Model surgery and structural optimization
-
-> `Fractal & Recursive Architectures` Self-similar neural structures, cascade models
 
 > `Parameter-Efficient Fine-Tuning` LoRA, QLoRA, adapter fusion techniques
 
 > `Speech Technologies` Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
 
-> `Natural Language Interfaces` Intent recognition, semantic parsing
-
 > `Retrieval-Augmented Generation (RAG)` Dense retrieval, reranking strategies
+
+>  `Fractal & Recursive Architectures` Self-similar neural structures, cascade models
 
 > `Model Quantization & Compression` 4-bit/8-bit inference optimization
 
-> `Neurosemantic Computing` Brain-inspired language processing architectures
+> `Neurosemantic Computing` Brain-inspired language processing architectures & semantic parsing
+
 
 # Current Hyperfocus
 
@@ -56,7 +45,6 @@ Research Interests
 ```
 Product Design
 ```
-
 Enteraction design, visual design, motion design, design systems, Information architecture, accessibility standards, user research, prototyping, design strategy, team leadership
 ```
 AI & Machine Learning (hobby)
@@ -92,10 +80,7 @@ Fueled by `Brazilian coffee` and impossible deadlines
 
 Believes the best `debugging happens at 2 AM`
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg)
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg)
-
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg)
-
 ## "The future belongs to those who see possibilities where others see limitations."
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg)
