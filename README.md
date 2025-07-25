@@ -3,7 +3,7 @@
 ![AI Researcher](https://img.shields.io/badge/%F0%9F%A7%A0-AI%20Researcher%20%7C%20Neurosemantic-grey.svg)
 ![Location](https://img.shields.io/badge/%F0%9F%93%8D-S%C3%A3o%20Paulo%2C%20Brazil-grey.svg)
 
-# I transform `complex problems` into `elegant products` that people actually love to use.
+# I transform `complex problems` into `elegant products` that people actually love to use
 
 **`Currently`** Building something new in stealth mode (AI + Mental Health)
 
