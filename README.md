@@ -1,17 +1,17 @@
 # Make it `Simple`, but `Significant`
-[![Product Leader](https://img.shields.io/badge/🚀-Product%20Leader%20|%2022%2B%20years-blue.svg)](https://linkedin.com/in/brennercruvinel)
-[![AI Researcher](https://img.shields.io/badge/🧠-AI%20Researcher%20|Neurosemantic-purple.svg)](https://brennercruvinel.com)
-[![Location](https://img.shields.io/badge/📍-São%20Paulo%2C%20Brazil-red.svg)](https://maps.app.goo.gl/saopaulo)
+[![Product Leader](https://img.shields.io/badge/🚀-Product%20Leader%20|%2022%2B%20years-grey.svg)](https://linkedin.com/in/brennercruvinel)
+[![AI Researcher](https://img.shields.io/badge/🧠-AI%20Researcher%20|%20Neurosemantic-grey.svg)](https://brennercruvinel.com)
+[![Location](https://img.shields.io/badge/📍-São%20Paulo%2C%20Brazil-grey.svg)](https://maps.app.goo.gl/saopaulo)
 ## Hi, I'm Brenner
 
 I transform `complex problems` into `elegant solutions` that people actually love to use.
 
 ### What I'm About
 
-**Currently:** Building something new in stealth mode (AI + Mental Health)  
-**Previously:** Led product design at Brazil's largest digital health platforms (Zenklub/Conexa)  
-**Mission:** Making technology disappear so humanity can shine  
-**Philosophy:** The best interface is no interface  
+`Currently` Building something new in stealth mode (AI + Mental Health)  
+`Previously` Led product design at Brazil's largest digital health platforms (Zenklub/Conexa)  
+`Mission:` Making technology disappear so humanity can shine  
+`Philosophy` The best interface is no interface  
   
 ## Current Hyperfocus
 
