@@ -58,7 +58,7 @@ LLM deployment, fine-tuning, embeddings, vector databases, semantic search, prom
 const stack = {
   ai:             ['Autotrain', 'Ollama', 'PyTorch', 'Tensorflow', 'HuggingFace', 'LangChain', 'LM Studio'],
   frontend:       ['TypeScript', 'React', 'Next.js', 'Svelte', 'Three.js', 'Tailwind', 'WebGL','GLSL'],
-  backend:        ['Python', 'Rust', 'FastAPI', 'PostgreSQL', 'Redis', 'Supabase'],
+  backend:        ['Python', 'Rust', 'FastAPI', 'PostgreSQL', 'Redis'],
   vectors:        ['Chroma', 'Pinecone', 'pgvector'],
   infrastructure: ['Docker', 'Google Cloud', 'Vercel'],
   realtime:       ['WebRTC', 'WebSockets'],
