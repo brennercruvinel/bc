@@ -74,26 +74,6 @@ const stack = {
 - **Building:** Local-first AI tools that respect privacy
 - **Learning:** Advanced CUDA programming, FlashAttention v2, speculative decoding, continuous batching, neural semantic parsing, Svelte + Tauri ecosystem
 
-## Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/brennercruvinel">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://brennercruvinel.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="mailto:brennertalks@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://twitter.com/brennercruvinel">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="https://instagram.com/brennercruvinel">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
-
 ## Fun Facts
 
 - Created the ["world's longest email"](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) (111,830px tall) - Beach Park Insano Guinness Record holder
@@ -103,13 +83,28 @@ const stack = {
 - Believes the best debugging happens at 3 AM
 
 ---
+
+## Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/brennercruvinel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://brennercruvinel.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:brennertalks@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/brennercruvinel">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/brennercruvinel">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <i>"The future belongs to those who see possibilities where others see limitations."</i>
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brennercruvinel&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-```
