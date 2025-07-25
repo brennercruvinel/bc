@@ -36,7 +36,7 @@ LLM deployment, fine-tuning, embeddings, vector databases, semantic search, prom
 ## Tech Stack
 
 ```typescript
- ai: ['Autotrain', 'Ollama', 'LlamaIndex', 'HuggingFace ecosystem', 'LangChain', 'PyTorch','Claude CLI','LM Studio'],
+ ai: ['Autotrain', 'Ollama', 'PyTorch', 'Tensorflow', 'HuggingFace ecosystem', 'LangChain','Claude CLI','LM Studio'],
   frontend: ['TypeScript', 'React', 'Next.js', 'Svelte', 'Three.js', 'Tailwind', 'WebGPU', 'GLSL'],
   backend: ['Python', 'FastAPI', 'PostgreSQL', 'Redis', 'Supabase'],
   vectors: ['Crhoma', 'Pinecone', 'pgvector'],
