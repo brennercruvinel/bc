@@ -74,7 +74,7 @@ Created the [world's longest email](https://www.meioemensagem.com.br/comunicacao
 
 Can hyperfocus so intensely that `10 hours feel like 10 minutes`
 
-Once built a [viral webapp](https://www.awwwards.com/sites/facemother) that got `+1M users from a dumb experiment`
+Once built a [viral webapp](https://www.awwwards.com/sites/facemother) that got `thousands users from a dumb experiment`
 
 Fueled by `Brazilian coffee` and impossible deadlines
 
