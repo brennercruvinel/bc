@@ -17,9 +17,6 @@
 # Make it `Simple`, but `Significant`
 
 [![Product Leader](https://img.shields.io/badge/Product%20Leader-22%2B%20years-black.svg)](https://linkedin.com/in/brennercruvinel)
-[![AI Pioneer](https://img.shields.io/badge/AI%20Pioneer-Voice%20%26%20Emotional%20AI-purple.svg)](https://brennercruvinel.com)
-[![Design Systems](https://img.shields.io/badge/Design%20Systems-FreudDS%20Creator-blue.svg)](https://github.com/brennercruvinel)
-[![Neurodivergent](https://img.shields.io/badge/2e-ADHD%20%2B%20ASD-green.svg)](https://brennercruvinel.com/about)
 [![Location](https://img.shields.io/badge/📍-São%20Paulo%2C%20Brazil-red.svg)](https://maps.app.goo.gl/saopaulo)
 
 ## Hi, I'm Brenner
@@ -28,29 +25,10 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 
 ### What I'm About
 
-**Currently:** Building something new in stealth mode (AI + Productivity)  
+**Currently:** Building something new in stealth mode (AI + Mental Health)  
 **Previously:** Led product design at Brazil's largest digital health platforms (Zenklub/Conexa)  
 **Mission:** Making technology disappear so humanity can shine  
 **Philosophy:** The best interface is no interface  
-
-### The Highlight Reel
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/4M%2B-Lives%20Impacted-FF6B6B?style=for-the-badge" />
-      <br><sub><b>Digital Health</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/170K%2B-Students-4ECDC4?style=for-the-badge" />
-      <br><sub><b>EdTech AI</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/50%2B-Designers%20Mentored-45B7D1?style=for-the-badge" />
-      <br><sub><b>Team Growth</b></sub>
-    </td>
-  </tr>
-</table>
 
 ## Research Interests
 
@@ -81,10 +59,10 @@ Python, TypeScript, React, Next.js, FastAPI, PyTorch, iOS development, Arduino, 
 
 ```typescript
 const stack = {
-  ai: ['Deepseek', 'Claude', 'LangChain', 'LlamaIndex', 'vLLM', 'Ollama', 'HuggingFace'],
+  ai: ['Claude code as copilot', 'LangChain', 'LlamaIndex', 'vLLM', 'Ollama', 'HuggingFace', 'LM Studio'],
   frontend: ['TypeScript', 'Three.js', 'WebGPU', 'Canvas API', 'GLSL Shaders'],
   backend: ['Python', 'Rust', 'FastAPI', 'PostgreSQL', 'Qdrant', 'Supabase'],
-  voice: ['Whisper', 'Tortoise-TTS', 'Coqui', 'Alexa Skills Kit'],
+  voice: ['Whisper', 'Tortoise-TTS', 'Alexa Skills Kit'],
   philosophy: ['Simplicity', 'Empathy', 'Craft']
 };
 ```
@@ -118,18 +96,13 @@ const stack = {
 
 ## Fun Facts
 
-- Created the ["world's longest email"](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) (111,830px tall) - Guinness Record holder
+- Created the ["world's longest email"](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) (111,830px tall) - Beach Park Insano Guinness Record holder
 - Can enter a coding flow state that makes 10 hours feel like 10 minutes
 - Once built a viral app that got 2M downloads by accident
 - Fueled by Brazilian coffee and impossible deadlines
 - Believes the best debugging happens at 3 AM
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brennercruvinel&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <i>"The future belongs to those who see possibilities where others see limitations."</i>
 </p>
