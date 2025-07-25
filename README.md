@@ -1,7 +1,7 @@
 # Make it `Simple`, but `Significant`
 
 [![Product Leader](https://img.shields.io/badge/Product%20Leader-22%2B%20years-black.svg)](https://linkedin.com/in/brennercruvinel)
-![Researcher](https://img.shields.io/badge/🔬-AI%20Researcher-purple.svg)
+[![AI Researcher](https://img.shields.io/badge/AI%20Researcher-LLMs%20%26%20Neurosemantic-purple.svg)](https://brennercruvinel.com)
 [![Location](https://img.shields.io/badge/📍-São%20Paulo%2C%20Brazil-red.svg)](https://maps.app.goo.gl/saopaulo)
 
 ## Hi, I'm Brenner
@@ -44,9 +44,11 @@ Python, TypeScript, React, Next.js, FastAPI, PyTorch, iOS development, Arduino, 
 
 ```typescript
 const stack = {
-  ai: ['Claude code as copilot', 'LangChain', 'LlamaIndex', 'vLLM', 'Ollama', 'HuggingFace', 'LM Studio'],
-  frontend: ['TypeScript', 'Three.js', 'WebGPU', 'Canvas API', 'GLSL Shaders'],
+  ai: ['LangChain', 'LlamaIndex', 'vLLM', 'Ollama', 'HuggingFace', 'LM Studio'],
+  frontend: ['TypeScript', 'React', 'Next.js', 'Three.js', 'WebGPU', 'Canvas API', 'GLSL Shaders'],
   backend: ['Python', 'Rust', 'FastAPI', 'PostgreSQL', 'Qdrant', 'Supabase'],
+  embedded: ['Arduino', 'Raspberry Pi', 'iOS Development'],
+  infrastructure: ['WebRTC', 'WASM', 'PyTorch', 'Edge Computing'],
   voice: ['Whisper', 'Tortoise-TTS', 'Alexa Skills Kit'],
   philosophy: ['Simplicity', 'Empathy', 'Craft']
 };
@@ -87,5 +89,3 @@ const stack = {
 <p align="center">
   <i>"The future belongs to those who see possibilities where others see limitations."</i>
 </p>
-
-
