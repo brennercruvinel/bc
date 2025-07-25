@@ -45,7 +45,7 @@ Research Interests
 ```
 Product Design
 ```
-Enteraction design, visual design, motion design, design systems, Information architecture, accessibility standards, user research, prototyping, design strategy, team leadership
+Team leadership, interaction design, user research, PLG (product led growth), information architecture, accessibility standards, prototyping, design strategy, visual design, motion UI, design systems, accessibility standards, prototyping, product strategy
 ```
 AI & Machine Learning
 ```
