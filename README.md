@@ -17,57 +17,52 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 
 ## Research Interests
 
-* Large Language Models (LLMs) - Architecture optimization and efficiency
-* Neural Architecture Search & Model Surgery
-* Parameter-Efficient Fine-Tuning (PEFT) - LoRA, QLoRA, Adapter fusion
-* Multimodal Fusion - Vision-Language models, cross-modal attention
+* `Large Language Models (LLMs)` Architecture optimization and efficiency
+* Neural Architecture `Search & Model Surgery`
+* `Parameter-Efficient` Fine-Tuning (PEFT), `LoRA`, QLoRA, `Adapter fusion`
 * Speech Technologies - Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
-* Natural Language Interfaces - Intent recognition, semantic parsing
-* Retrieval-Augmented Generation (RAG) - Dense retrieval, reranking strategies
-* Model Quantization & Compression - 4-bit/8-bit inference optimization
-* Prompt Engineering - Chain-of-thought, few-shot learning, instruction tuning
-* Neurosymbolic AI - Combining neural networks with symbolic reasoning
-* Neurosemantic Computing - Brain-inspired language processing architectures
+* `Natural Language Interfaces` Intent recognition, `semantic parsing`
+* Retrieval-Augmented Generation `(RAG), Dense retrieval, reranking strategies`
+* `Model Quantization & Compression`, 4-bit/8-bit inference optimization
+* Neurosemantic Computing `Brain-inspired language processing architectures`
 
 ## Skills
 
 **Product Design**  
-Information architecture, interaction design, visual design, motion design, design systems, accessibility standards, user research, prototyping, design strategy, team leadership
+Enteraction design, visual design, motion design, design systems, Information architecture, accessibility standards, user research, prototyping, design strategy, team leadership
 
 **AI & Machine Learning**  
 LLM deployment, fine-tuning, embeddings, vector databases, semantic search, prompt engineering, multimodal AI, voice interfaces, model optimization, production ML systems
 
-**Engineering**  
-Python, TypeScript, React, Next.js, FastAPI, PyTorch, iOS development, Arduino, Raspberry Pi, system architecture, WebRTC, real-time systems, WebGPU, WASM, edge computing
-
-## Tech Stack I Love
+## Tech Stack & Skills
 
 ```typescript
-const stack = {
-  ai: ['LangChain', 'LlamaIndex', 'vLLM', 'Ollama', 'HuggingFace', 'LM Studio'],
-  frontend: ['TypeScript', 'React', 'Next.js', 'Three.js', 'WebGPU', 'Canvas API', 'GLSL Shaders'],
-  backend: ['Python', 'Rust', 'FastAPI', 'PostgreSQL', 'Qdrant', 'Supabase'],
-  embedded: ['Arduino', 'Raspberry Pi', 'iOS Development'],
-  infrastructure: ['WebRTC', 'WASM', 'PyTorch', 'Edge Computing'],
-  voice: ['Whisper', 'Tortoise-TTS', 'Alexa Skills Kit'],
+ ai: ['Autotrain', 'Ollama', 'LlamaIndex', 'HuggingFace ecosystem', 'LangChain', 'PyTorch','Claude CLI','LM Studio, 'Deepseek/QWEN and a bunch of open source models'],
+  frontend: ['TypeScript', 'React', 'Next.js', 'Svelte', 'Three.js', 'Tailwind', 'WebGPU', 'GLSL'],
+  backend: ['Python', 'FastAPI', 'PostgreSQL', 'Redis', 'Supabase'],
+  vectors: ['Crhoma', 'Pinecone', 'pgvector'],
+  infrastructure: ['Docker', 'Google Cloud', 'Vercel', 'WebRTC', 'WASM'],
+  hardware: ['Arduino', 'Raspberry Pi'],
+  voice: ['Whisper', 'Coqui TTS', 'Alexa Skills Kit'],
   philosophy: ['Simplicity', 'Empathy', 'Craft']
 };
 ```
 
+
 ## Current Obsessions
 
-- **Experimenting:** Svelte + Tauri for blazing fast desktop apps (React is dead to me)
-- **Reading:** Papers on mixture of experts (MoE) architectures
-- **Building:** Local-first AI tools that respect privacy
-- **Learning:** Advanced CUDA programming, FlashAttention v2, speculative decoding, continuous batching, neural semantic parsing, Svelte + Tauri ecosystem
+- **Experimenting:** `Svelte` + `Tauri` for blazing fast desktop apps `(React is dead to me)`
+- **Reading:** Papers on `mixture of experts (MoE)` architectures
+- **Building:** Local-first AI tools that `respect privacy`
+- **Learning:** `Advanced CUDA`, FlashAttention v2, `speculative decoding`, continuous batching, `neural semantic parsing`, Svelte + Tauri ecosystem
 
 ## Fun Facts
 
-- Created the["world's longest email"](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) 15 years ago - Beach Park Insano Guinness Record holder
-- Can enter a coding flow state that makes 10 hours feel like 10 minutes
-- Once built a viral app that got 2M downloads by accident
-- Fueled by Brazilian coffee and impossible deadlines
-- Believes the best debugging happens at 3 AM
+- Created the["world's longest email"](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) 15 years ago - Beach Park Insano `Guinness Record holder`
+- Can enter a coding flow state that makes `10 hours feel like 10 minutes`
+- Once built a viral app that got `2M downloads by accident`
+- Fueled by `Brazilian coffee` and impossible deadlines
+- Believes the best `debugging happens at 2 AM`
 
 ---
 
