@@ -17,6 +17,7 @@
 # Make it `Simple`, but `Significant`
 
 [![Product Leader](https://img.shields.io/badge/Product%20Leader-22%2B%20years-black.svg)](https://linkedin.com/in/brennercruvinel)
+![Researcher](https://img.shields.io/badge/🔬-AI%20Researcher-purple.svg)
 [![Location](https://img.shields.io/badge/📍-São%20Paulo%2C%20Brazil-red.svg)](https://maps.app.goo.gl/saopaulo)
 
 ## Hi, I'm Brenner
