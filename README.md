@@ -12,7 +12,7 @@
 **`Mission`** Making technology disappear so humanity can shine
 
 **`Philosophy`** The best interface is no interface
-# Make it Simple, but `Significant`
+# Make it simple, but `significant`
 
 Research Interests
 
