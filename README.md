@@ -4,13 +4,13 @@
 [![Location](https://img.shields.io/badge/📍-São%20Paulo%2C%20Brazil-grey.svg)](https://maps.app.goo.gl/saopaulo)
 ## Hi, I'm Brenner
 
-I transform `complex problems` into `elegant solutions` that people actually love to use.
+> I transform `complex problems` into `elegant solutions` that people actually love to use.
 
 ### What I'm About
 
 `Currently` Building something new in stealth mode (AI + Mental Health)  
 `Previously` Led product design at Brazil's largest digital health platforms (Zenklub/Conexa)  
-`Mission:` Making technology disappear so humanity can shine  
+`Mission` Making technology disappear so humanity can shine  
 `Philosophy` The best interface is no interface  
   
 ## Current Hyperfocus
@@ -22,16 +22,24 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 
 ## Research interests
 
-* **Large language models (LLMs)** - Architecture optimization and efficiency
-* **Neural architecture search** - Model surgery and structural optimization
-* **Fractal & recursive architectures** - Self-similar neural structures, cascade models
-* **Parameter-Efficient fine-Tuning** - LoRA, QLoRA, adapter fusion techniques
-* **Speech technologies** - Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
-* **Natural language interfaces** - Intent recognition, semantic parsing
-* **Retrieval-augmented generation (RAG)** - Dense retrieval, reranking strategies
-* **Model quantization & compression** - 4-bit/8-bit inference optimization
-* **Neurosemantic computing** - Brain-inspired language processing architectures
-  
+> `Large Language Models (LLMs)` Architecture optimization and efficiency
+
+> `Neural Architecture Search` Model surgery and structural optimization
+
+> `Fractal & Recursive Architectures` Self-similar neural structures, cascade models
+
+> `Parameter-Efficient Fine-Tuning` LoRA, QLoRA, adapter fusion techniques
+
+> `Speech Technologies` Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
+
+> `Natural Language Interfaces` Intent recognition, semantic parsing
+
+> `Retrieval-Augmented Generation (RAG)` Dense retrieval, reranking strategies
+
+> `Model Quantization & Compression` 4-bit/8-bit inference optimization
+
+> `Neurosemantic Computing` Brain-inspired language processing architectures
+
 ## Skills
 
 **Product Design**  
@@ -44,14 +52,16 @@ LLM deployment, fine-tuning, embeddings, vector databases, semantic search, prom
 ## Tech Stack
 
 ```typescript
- ai: ['Autotrain', 'Ollama', 'PyTorch', 'Tensorflow', 'HuggingFace ecosystem', 'LangChain','Claude CLI','LM Studio'],
-  frontend: ['TypeScript', 'React', 'Next.js', 'Svelte', 'Three.js', 'Tailwind', 'WebGPU', 'GLSL'],
-  backend: ['Python', 'FastAPI', 'PostgreSQL', 'Redis', 'Supabase'],
-  vectors: ['Crhoma', 'Pinecone', 'pgvector'],
-  infrastructure: ['Docker', 'Google Cloud', 'Vercel', 'WebRTC', 'WASM'],
-  hardware: ['Arduino', 'Raspberry Pi'],
-  voice: ['Whisper', 'Coqui TTS', 'Alexa Skills Kit'],
-  philosophy: ['Simplicity', 'Empathy', 'Craft']
+const stack = {
+  ai:             ['Autotrain', 'Ollama', 'PyTorch', 'Tensorflow', 'HuggingFace', 'LangChain', 'LM Studio'],       
+  frontend:       ['TypeScript', 'React', 'Next.js', 'Svelte', 'Three.js', 'Tailwind', 'WebGPU', 'GLSL', 'WASM'],  
+  backend:        ['Python', 'FastAPI', 'PostgreSQL', 'Redis', 'Supabase'],                                        
+  vectors:        ['Chroma', 'Pinecone', 'pgvector'],                                                              
+  infrastructure: ['Docker', 'Google Cloud', 'Vercel'],                                                            
+  realtime:       ['WebRTC', 'WebSockets'],                                                                      
+  hardware:       ['Arduino', 'Raspberry Pi'],                                                                    
+  voice:          ['Whisper', 'Coqui TTS', 'Alexa Skills Kit'],                                                    
+  philosophy:     ['Simplicity', 'Empathy', 'Craft']                                                              
 };
 ```
 
