@@ -1,5 +1,5 @@
 # Hi, I'm Brenner
-![Product Leader](https://img.shields.io/badge/%F0%9F%9A%80-Product%20Leader%20%7C%2022%2B%20years-grey.svg)
+![Product Leader](https://img.shields.io/badge/%F0%9F%9A%80-Product%20Leader%20%7C%2021%2B%20years-grey.svg)
 ![AI Researcher](https://img.shields.io/badge/%F0%9F%A7%A0-AI%20Researcher%20%7C%20Neurosemantic-grey.svg)
 ![Location](https://img.shields.io/badge/%F0%9F%93%8D-S%C3%A3o%20Paulo%2C%20Brazil-grey.svg)
 
