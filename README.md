@@ -60,7 +60,7 @@ const stack = {
   frontend:       ['TypeScript', 'React', 'Next.js', 'Svelte', 'Three.js', 'Tailwind', 'WebGL','GLSL'],
   backend:        ['Python', 'Rust', 'FastAPI', 'PostgreSQL', 'Redis'],
   vectors:        ['Chroma', 'Pinecone', 'pgvector'],
-  infrastructure: ['Docker', 'Google Cloud', 'Vercel'],
+  infrastructure: ['Docker', 'Google Cloud', 'AW'],
   realtime:       ['WebRTC', 'WebSockets'],
   hardware:       ['Arduino', 'Raspberry Pi'],
   voice:          ['Whisper', 'Coqui TTS', 'Alexa Skills Kit'],
