@@ -20,7 +20,7 @@ I transform `complex problems` into `elegant solutions` that people actually lov
 * **Parameter-Efficient fine-Tuning** - LoRA, QLoRA, adapter fusion techniques
 * **Speech technologies** - Speech-to-Speech (S2S), Speech-to-Text (STT), prosody transfer
 * **Natural language interfaces** - Intent recognition, semantic parsing
-* **Retrieval-qugmented generation (RAG)** - Dense retrieval, reranking strategies
+* **Retrieval-augmented generation (RAG)** - Dense retrieval, reranking strategies
 * **Model quantization & compression** - 4-bit/8-bit inference optimization
 * **Neurosemantic computing** - Brain-inspired language processing architectures
 
