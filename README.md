@@ -54,10 +54,10 @@ LLM deployment, fine-tuning, embeddings, vector databases, semantic search, mult
 # Tech Stack
 
 > *I'm 2e (autistic + gifted)*  
-> *That's why I can go from Figma to CUDA without blinking (:*  
+> *That's why I can go from Figma to Three.js without blinking (:*  
 > *My brain doesn't do "or" - only "and".*
 
-### 🔴 Warning: Over-engineering ahead. I collect tools like Pokémon.
+### 🔴 Warning: Over-engineering ahead. I collect tools like Pokemon.
 
 ```javascript
 // 21+ years collecting tools. These are the ones I still remember:
