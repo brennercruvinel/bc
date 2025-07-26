@@ -71,19 +71,6 @@ const stack = {
 };
 ```
 
-
-# Fun Facts
-
-Created the [world's longest email](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) (long time ago) `Beach Park Insano Guinness Record holder`
-
-Can hyperfocus so intensely that `10 hours feel like 10 minutes`
-
-Once built a [viral webapp](https://www.awwwards.com/sites/facemother) that got `thousands users from a dumb experiment`
-
-Fueled by `Brazilian coffee` and impossible deadlines
-
-Believes the best `debugging happens at 2 AM`
-
 ## "The future belongs to those who see possibilities where others see limitations."
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg)
