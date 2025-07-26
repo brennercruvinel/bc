@@ -43,12 +43,12 @@ Research Interests
 ```
 Product Design
 ```
-Team leadership, interaction design, user research, PLG (product led growth), VUI, information architecture, accessibility standards, prototyping, design strategy, visual design, motion UI, design systems, accessibility standards, prototyping, product strategy
+Team leadership, interaction design, user research, PLG (product led growth), VUI, motion UI, design systems.
 ```
 AI & Machine Learning
 ```
 
-LLM deployment, fine-tuning, embeddings, vector databases, semantic search, prompt engineering, multimodal AI, voice interfaces, model optimization, production ML systems
+LLM deployment, fine-tuning, embeddings, vector databases, semantic search, multimodal AI, voice interfaces, model optimization, production ML.
 
 # Tech Stack
 
@@ -68,7 +68,7 @@ const stack = {
 
 # Fun Facts
 
-Created the [world's longest email](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) 15 years ago - Beach Park Insano `Guinness Record holder`
+Created the [world's longest email](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) (long tiome ago) `Beach Park Insano Guinness Record holder`
 
 Can hyperfocus so intensely that `10 hours feel like 10 minutes`
 
