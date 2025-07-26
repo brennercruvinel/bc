@@ -52,7 +52,10 @@ LLM deployment, fine-tuning, embeddings, vector databases, semantic search, mult
 
 # Tech Stack
 
-```prolog
+*I'm 2e (autistic + gifted).
+That's why I can go from Figma to CUDA without blinking. My brain doesn't do "or" - only "and".*
+
+```javascript
 const stack = {
   ai:             ['Autotrain', 'Ollama', 'PyTorch', 'Tensorflow', 'HuggingFace', 'LangChain', 'LM Studio'],
   frontend:       ['TypeScript', 'React', 'Next.js', 'Svelte', 'Three.js', 'Tailwind', 'WebGL','GLSL'],
@@ -68,7 +71,7 @@ const stack = {
 
 # Fun Facts
 
-Created the [world's longest email](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) (long tiome ago) `Beach Park Insano Guinness Record holder`
+Created the [world's longest email](https://www.meioemensagem.com.br/comunicacao/acao-do-beach-park-propoe-emocao-real) (long time ago) `Beach Park Insano Guinness Record holder`
 
 Can hyperfocus so intensely that `10 hours feel like 10 minutes`
 
