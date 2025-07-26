@@ -61,7 +61,7 @@ LLM deployment, fine-tuning, embeddings, vector databases, semantic search, mult
 ### 🔴 Warning: Over-engineering ahead. I collect tools like Pokemon.
 
 ```javascript
-// 21+ years collecting tools. These are the ones I still remember:
+// 21+ years in tech. These are the tools that stuck with me:
 const stack = {
   ai:             ['Autotrain', 'Ollama', 'PyTorch', 'Tensorflow', 'HuggingFace', 'LangChain', 'LM Studio'],
   frontend:       ['TypeScript', 'React', 'Next.js', 'Svelte', 'Three.js', 'Tailwind', 'WebGL','GLSL'],
