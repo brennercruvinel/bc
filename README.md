@@ -57,7 +57,7 @@ LLM deployment, fine-tuning, embeddings, vector databases, semantic search, mult
 > *That's why I can go from Figma to CUDA without blinking.*  
 > *My brain doesn't do "or" - only "and".*
 
-### 🔴 Warning: Over-engineering ahead. My brain collects tools like Pokémon.
+### 🔴 Warning: Over-engineering ahead. I collect tools like Pokémon.
 
 ```javascript
 // 21+ years collecting tools. These are the ones I still remember:
