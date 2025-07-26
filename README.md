@@ -52,12 +52,9 @@ LLM deployment, fine-tuning, embeddings, vector databases, semantic search, mult
 
 # Tech Stack
 
-> *I'm 2e (autistic + gifted)*  
+> *I'm 2e (autistic)*  
 > *My brain doesn't do "or" - only "and"*
 > *That's why I can go from Figma to Three.js without blinking (:*  
-
-
-### 🔴 Warning: Over-engineering ahead. I collect tools like Pokemon.
 
 ```javascript
 // 21+ years in tech. These are the tools that stuck with me:
