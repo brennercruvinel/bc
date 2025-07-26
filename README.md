@@ -31,7 +31,7 @@ Research Interests
 
 # Current Hyperfocus
 
-**Experimenting:** **`Svelte`** + **`Tauri`** for blazing fast desktop apps **`(React is dead to me)`**
+**Experimenting:** `Svelte` + `Tauri` for blazing fast desktop apps `(sorry React, it's not you, it's Svelte)`
 
 **Reading:** Papers on **`mixture of experts (MoE)`** architectures
 
@@ -50,24 +50,30 @@ AI & Machine Learning
 
 LLM deployment, fine-tuning, embeddings, vector databases, semantic search, multimodal AI, voice interfaces, model optimization, production ML.
 
+
 # Tech Stack
 
-*I'm 2e (autistic + gifted).
-That's why I can go from Figma to CUDA without blinking. My brain doesn't do "or" - only "and".*
+> *I'm 2e (autistic + gifted).*  
+> *That's why I can go from Figma to CUDA without blinking.*  
+> *My brain doesn't do "or" - only "and".*
+
+### 🔴 Warning: Over-engineering ahead. My brain collects tools like Pokémon.
 
 ```javascript
+// 21+ years collecting tools. These are the ones I still remember:
 const stack = {
   ai:             ['Autotrain', 'Ollama', 'PyTorch', 'Tensorflow', 'HuggingFace', 'LangChain', 'LM Studio'],
   frontend:       ['TypeScript', 'React', 'Next.js', 'Svelte', 'Three.js', 'Tailwind', 'WebGL','GLSL'],
   backend:        ['Python', 'Rust', 'FastAPI', 'PostgreSQL', 'Redis'],
   vectors:        ['Chroma', 'Pinecone', 'pgvector'],
-  infrastructure: ['Docker', 'Google Cloud', 'AW'],
+  infrastructure: ['Docker', 'Google Cloud', 'AWS'],
   realtime:       ['WebRTC', 'WebSockets'],
   hardware:       ['Arduino', 'Raspberry Pi'],
   voice:          ['Whisper', 'Coqui TTS', 'Alexa Skills'],
   philosophy:     ['Simplicity', 'Empathy', 'Craft']
 };
 ```
+
 
 # Fun Facts
 
